@@ -1,7 +1,9 @@
 # Table of contents
 
-* [Zea-Docs](README.md)
+* [Drawings](README.md)
+* [Zea-Docs](<README (1).md>)
 
-## Group 1
+## Knowledge
 
-* [Knowledge](group-1/knowledge.md)
+* [Knowledge](knowledge/knowledge.md)
+* [WFC Export](knowledge/wfc-export.md)
