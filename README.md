@@ -1,2 +1,2 @@
-# zea-docs
-zea-docs
+# Zea-Docs
+
